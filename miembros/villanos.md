@@ -5,6 +5,7 @@
 3. Brainiac
 4. Joker
 5. Harley QuinnSS
+6. Darkseid
 
 # Notas
 
