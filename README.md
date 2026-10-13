@@ -8,11 +8,7 @@
 ![Último commit](https://img.shields.io/github/last-commit/javigallego05/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/javigallego05/legion-del-mal?cacheSeconds=60)
 
-<<<<<<< HEAD
-# 🦹‍♂️ La Legión del Mal - Desde Remoto
-=======
-# 🦹‍♂️ La Legión del Mal - Desde Local
->>>>>>> fdb70b3 (fix: actualizar README desde local)
+# 🦹‍♂️ La Legión del Mal - Desde Remoto y Local 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
