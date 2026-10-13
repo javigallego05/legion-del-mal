@@ -13,13 +13,13 @@
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 ## ¿Quiénes somos? - Remoto
-=======
+
 ## ¿Quiénes somos? - desde local
 >>>>>>> b30fddb (docs: agregar quienes somos local)
-=======
+
 ## ¿Quiénes somos? - desde remoto y local
 >>>>>>> 1473d2b (fix: solventar conflicto)
 
